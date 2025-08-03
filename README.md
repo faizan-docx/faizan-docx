@@ -1,30 +1,75 @@
-<h1 align="center">Hi, I'm Faizan 👋</h1>
+<h1 align="center">Hi, I'm Faizan Ahmad 👋</h1>
+
+<p align="center">🌐 Full Stack Developer | 📸 Photographer | 🎤 Vocalist | 🎭 Creative Soul</p>
 
 <p align="center">
-  <b>Tech Enthusiast | Web Developer | Hindi Poet</b>
-</p>
-
-<p align="center">
-  <a href="https://your-portfolio.com">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-  <a href="mailto:youremail@example.com">Email</a>
+  <a href="https://faizanahmad.vercel.app" target="_blank">🌍 Portfolio</a> •
+  <a href="mailto:faizanahmad2020.fa@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-### 🛠️ Tech I Work With
+### 💼 About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+🎓 B.Tech CSE (AI & DS) @ Bhagwan Parshuram Institute of Technology, GGSIPU  
+🎤 Lead Vocalist of Octave.bpit (College Singing Society)  
+📸 Passionate Street Photographer → [scriptedsafarnama on Instagram]  
+📜 Poet & Performer | Ex-Dramatics Society Member  
+🤝 Cultural Committee Member – actively organizing events & fests  
+
+---
+
+### 🧑‍💻 Tech I Work With
+
+<p>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### ✍️ About Me
+### 📌 Projects
 
-```text
-I'm Faizan – a passionate web developer who also writes poetry and captures stories through street photography.
+- 🔥 **[The Diet 4U](https://www.thediet4u.com)**  
+  React, Firebase, Razorpay, EmailJS  
+  A responsive diet management platform with authentication, dynamic plans, admin dashboard, and email automation.
+
+- 🏋️ **[LeoFit Global](https://leofit.vercel.app)**  
+  React, Tailwind, Firebase  
+  Single-page gym site featuring animations, schedules, trainers, and dynamic content via Firebase DB.
+
+- 🧾 **[Interactive Resume Portfolio](https://faizanahmad.vercel.app)**  
+  HTML, CSS, Bootstrap, JavaScript  
+  One-page resume with dynamic sections, transitions, and responsive layout using jQuery and Typed.js.
+
+- 🎬 **App UI Clones**  
+  Netflix | Amazon | Netmeds — practiced frontend cloning to learn UI principles & layouts.
+
+---
+
+### 🔬 Internship
+
+- **DRDO (SSPL, Delhi)** – June–July 2025  
+  Contributed to internal DB organization & technical support under classified research.
+
+---
+
+### 📫 Let's Connect
+
+- Email: [faizanahmad2020.fa@gmail.com](mailto:faizanahmad2020.fa@gmail.com)  
+- Portfolio: [faizanahmad.vercel.app](https://faizanahmad.vercel.app)
+
+---
+
+### 🏆 Achievements
+
+- Cultural Committee Member | Inter-College Performer  
+- Lead Singer | Passionate Poet & Photographer  
+- Hands-on Projects with Modern Tech Stack  
