@@ -54,7 +54,9 @@
   Startup platform for tech enthusiasts and projects. Currently leading as **Chief Technical Officer (CTO)**.
 
 - 🎮 **[GuessMasters](https://guessmasters.in)**  
-  Interactive game website built with HTML, CSS, JavaScript.  
+  Python, Machine Learning, Web App  
+  An AI/ML-powered platform that generates predictive guess papers for government exams, helping students prepare efficiently.
+ 
 
 - 🧾 **[Interactive Resume Portfolio](https://faizanahmad.vercel.app)**  
   HTML, CSS, Bootstrap, JavaScript  
