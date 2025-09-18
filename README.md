@@ -17,7 +17,7 @@
 
 🎓 B.Tech CSE @GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY
 🎤 Lead Vocalist of Octave.GGSIPU (College Singing Society)  
-📸 Passionate Street Photographer → [scriptedsafarnama on Instagram](https://instagram.com/scriptedsafarnama)  
+📸 Street Photographer → [scriptedsafarnama](https://instagram.com/scriptedsafarnama)  
 📜 Poet & Performer | Ex-Dramatics Society Member  
 🤝 Cultural Committee Member – actively organizing events & fests  
 
