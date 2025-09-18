@@ -41,7 +41,7 @@
 
 - 🔥 **[The Diet 4U](https://www.thediet4u.com)** – React, Firebase, Razorpay, EmailJS  
 - 🏋️ **[LeoFit Global](https://leofittglobal.com)** – React, Firebase, Tailwind  
-- 💻 **[TechEagles](https://techeagles.in)** – CTO, React + Node.js  
+- 💻 **[TechEagles](https://techeagles.in)** –  React + Node.js  
 - 🎮 **[GuessMasters](https://guessmasters.in)** – ML-based Exam Guess Papers  
 - 🧾 **[Interactive Resume](https://faizanahmad.vercel.app)** – HTML, CSS, JS  
 - 🎬 Netflix | Amazon | Netmeds **UI Clones**  
@@ -54,18 +54,7 @@
 - 💼 **MDM Consulting** – Client projects & solutions  
 - ⚡ **TechEagles.in** – CTO, managing dev & strategy  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizanahmad2002&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanahmad2002&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanahmad2002&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ## 📫 Let's Connect  
 
