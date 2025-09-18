@@ -7,13 +7,17 @@
   <a href="mailto:faizanahmad2020.fa@gmail.com">📧 Email</a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
+
 ---
 
 ### 💼 About Me
 
-🎓 B.Tech CSE (AI & DS) @ Bhagwan Parshuram Institute of Technology, GGSIPU  
-🎤 Lead Vocalist of Octave.bpit (College Singing Society)  
-📸 Passionate Street Photographer → [scriptedsafarnama on Instagram]  
+🎓 B.Tech CSE @GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY
+🎤 Lead Vocalist of Octave.GGSIPU (College Singing Society)  
+📸 Passionate Street Photographer → [scriptedsafarnama on Instagram](https://instagram.com/scriptedsafarnama)  
 📜 Poet & Performer | Ex-Dramatics Society Member  
 🤝 Cultural Committee Member – actively organizing events & fests  
 
@@ -41,9 +45,16 @@
   React, Firebase, Razorpay, EmailJS  
   A responsive diet management platform with authentication, dynamic plans, admin dashboard, and email automation.
 
-- 🏋️ **[LeoFit Global](https://leofit.vercel.app)**  
+- 🏋️ **[LeoFit Global](https://leofittglobal.com)**  
   React, Tailwind, Firebase  
   Single-page gym site featuring animations, schedules, trainers, and dynamic content via Firebase DB.
+
+- 💻 **[TechEagles](https://techeagles.in)**  
+  React, Node.js, Firebase  
+  Startup platform for tech enthusiasts and projects. Currently leading as **Chief Technical Officer (CTO)**.
+
+- 🎮 **[GuessMasters](https://guessmasters.in)**  
+  Interactive game website built with HTML, CSS, JavaScript.  
 
 - 🧾 **[Interactive Resume Portfolio](https://faizanahmad.vercel.app)**  
   HTML, CSS, Bootstrap, JavaScript  
@@ -59,13 +70,20 @@
 - **DRDO (SSPL, Delhi)** – June–July 2025  
   Contributed to internal DB organization & technical support under classified research.
 
+- **MDM Consulting** – 10th August 2025 to 10th September 2025  
+  Successfully completed internship focusing on technical projects and client solutions.
+
+- **TechEagles.in** – Chief Technical Officer (CTO)  
+  Leading development, strategy, and technical operations.
+
 ---
 
 ### 📫 Let's Connect
 
 - Email: [faizanahmad2020.fa@gmail.com](mailto:faizanahmad2020.fa@gmail.com)  
-- Portfolio: [faizanahmad.vercel.app](https://faizanahmad.vercel.app)
-
+- Portfolio: [faizanahmad.vercel.app](https://faizanahmad.vercel.app)  
+- Instagram: [scriptedsafarnama](https://instagram.com/iamfaizaannn)
+- Linkedin: [Faizan Ahmad](https://www.linkedin.com/in/faizan-ahmad-595356201/)
 ---
 
 ### 🏆 Achievements
@@ -73,3 +91,10 @@
 - Cultural Committee Member | Inter-College Performer  
 - Lead Singer | Passionate Poet & Photographer  
 - Hands-on Projects with Modern Tech Stack  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanAhmad&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAhmad&theme=radical" />
+</p>
