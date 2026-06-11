@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Faizan+Ahmad+👋;Full+Stack+Developer+💻;Photographer+📸+%7C+Vocalist+🎤+%7C+Poet+✍️" alt="Typing SVG" />
 </h1>
 
-<p align="center">🌐 Developer | 📸 Photographer | 🎤 Vocalist | 🎭 Creative Soul</p>
+<p align="center"> Developer |  Photographer |  Vocalist | 🎭 Creative Soul</p>
 
 <p align="center">
   <a href="https://faizanahmad.vercel.app" target="_blank">🌍 Portfolio</a> •
